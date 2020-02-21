@@ -1,0 +1,4512 @@
+[
+    {
+        "AND": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 35.5,
+                "feeling of responsibility": 90.4,
+                "Hard work": 60.1,
+                "imagination": 42.9,
+                "independence": 48.5,
+                "obedience": 38.3,
+                "religious faith": 6.9,
+                "tolerance and respect for other people": 88.4,
+                "unselfishness": 18.7
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "ALB": {
+            "1995-1999": {
+                "determination perseverance": 40.7,
+                "feeling of responsibility": 30.9,
+                "Hard work": 56.7,
+                "imagination": 10.7,
+                "independence": 32,
+                "obedience": 58.2,
+                "religious faith": 29.9,
+                "tolerance and respect for other people": 81.1,
+                "unselfishness": 11.7
+            },
+            "2000-2004": {
+                "determination perseverance": 52.9,
+                "feeling of responsibility": 68.2,
+                "Hard work": 63.6,
+                "imagination": 28.9,
+                "independence": 57.2,
+                "obedience": 53.9,
+                "religious faith": 36.3,
+                "tolerance and respect for other people": 80,
+                "unselfishness": 11.8
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "DZA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 17.5,
+                "feeling of responsibility": 58,
+                "Hard work": 66.9,
+                "imagination": 12.2,
+                "independence": 25.7,
+                "obedience": 56.2,
+                "religious faith": 76.8,
+                "tolerance and respect for other people": 54,
+                "unselfishness": 16.5
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 35.2,
+                "feeling of responsibility": 56.3,
+                "Hard work": 59.5,
+                "imagination": 23.4,
+                "independence": 31.2,
+                "obedience": 47.9,
+                "religious faith": 64.7,
+                "tolerance and respect for other people": 61.4,
+                "unselfishness": 34.3
+            }
+        },
+        "AZE": {
+            "1995-1999": {
+                "determination perseverance": 47,
+                "feeling of responsibility": 65.5,
+                "Hard work": 77.1,
+                "imagination": 13.8,
+                "independence": 59.7,
+                "obedience": 24.8,
+                "religious faith": 18.6,
+                "tolerance and respect for other people": 59.1,
+                "unselfishness": 16.6
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 39.7,
+                "feeling of responsibility": 79.2,
+                "Hard work": 74,
+                "imagination": 13.3,
+                "independence": 58.5,
+                "obedience": 6.4,
+                "religious faith": 19.4,
+                "tolerance and respect for other people": 71.7,
+                "unselfishness": 21.7
+            }
+        },
+        "ARG": {
+            "1995-1999": {
+                "determination perseverance": 28.5,
+                "feeling of responsibility": 79.6,
+                "Hard work": 55.5,
+                "imagination": 25.8,
+                "independence": 42.4,
+                "obedience": 31.6,
+                "religious faith": 34.7,
+                "tolerance and respect for other people": 73.6,
+                "unselfishness": 16.4
+            },
+            "2000-2004": {
+                "determination perseverance": 22.2,
+                "feeling of responsibility": 76.6,
+                "Hard work": 56.8,
+                "imagination": 23.5,
+                "independence": 36.3,
+                "obedience": 37.1,
+                "religious faith": 43.5,
+                "tolerance and respect for other people": 70.4,
+                "unselfishness": 12.7
+            },
+            "2005-2009": {
+                "determination perseverance": 23.5,
+                "feeling of responsibility": 72.1,
+                "Hard work": 57.7,
+                "imagination": 25.2,
+                "independence": 44,
+                "obedience": 44.6,
+                "religious faith": 25.6,
+                "tolerance and respect for other people": 71.5,
+                "unselfishness": 8.7
+            },
+            "2010-2014": {
+                "determination perseverance": 25.1,
+                "feeling of responsibility": 57.3,
+                "Hard work": 40.6,
+                "imagination": 31.4,
+                "independence": 44.1,
+                "obedience": 35.3,
+                "religious faith": 23.2,
+                "tolerance and respect for other people": 58.2,
+                "unselfishness": 42.3
+            }
+        },
+        "AUS": {
+            "1995-1999": {
+                "determination perseverance": 36.4,
+                "feeling of responsibility": 66.1,
+                "Hard work": 35.9,
+                "imagination": 26.4,
+                "independence": 52.9,
+                "obedience": 29.2,
+                "religious faith": 21.4,
+                "tolerance and respect for other people": 80.7,
+                "unselfishness": 39.7
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 49.3,
+                "feeling of responsibility": 72.3,
+                "Hard work": 48.6,
+                "imagination": 43.1,
+                "independence": 63.6,
+                "obedience": 38.8,
+                "religious faith": 21,
+                "tolerance and respect for other people": 91.7,
+                "unselfishness": 53.6
+            },
+            "2010-2014": {
+                "determination perseverance": 50.3,
+                "feeling of responsibility": 65.9,
+                "Hard work": 59.1,
+                "imagination": 39.8,
+                "independence": 65,
+                "obedience": 28.2,
+                "religious faith": 15.2,
+                "tolerance and respect for other people": 86.3,
+                "unselfishness": 49.2
+            }
+        },
+        "ARM": {
+            "1995-1999": {
+                "determination perseverance": 57.2,
+                "feeling of responsibility": 68.6,
+                "Hard work": 83.5,
+                "imagination": 15.7,
+                "independence": 32,
+                "obedience": 17.9,
+                "religious faith": 12.3,
+                "tolerance and respect for other people": 48.4,
+                "unselfishness": 30.6
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 32.8,
+                "feeling of responsibility": 79.6,
+                "Hard work": 81.9,
+                "imagination": 6.1,
+                "independence": 28,
+                "obedience": 24.2,
+                "religious faith": 38.1,
+                "tolerance and respect for other people": 56.3,
+                "unselfishness": 24.1
+            }
+        },
+        "BGD": {
+            "1995-1999": {
+                "determination perseverance": 53.4,
+                "feeling of responsibility": 39.4,
+                "Hard work": 8.1,
+                "imagination": 14.2,
+                "independence": 57,
+                "obedience": 19,
+                "religious faith": 77.7,
+                "tolerance and respect for other people": 69.2,
+                "unselfishness": 15.7
+            },
+            "2000-2004": {
+                "determination perseverance": 35.9,
+                "feeling of responsibility": 53.3,
+                "Hard work": 58.9,
+                "imagination": 35.6,
+                "independence": 77.8,
+                "obedience": 19.2,
+                "religious faith": 70.1,
+                "tolerance and respect for other people": 70.9,
+                "unselfishness": 15.8
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "BIH": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 46.1,
+                "feeling of responsibility": 73.8,
+                "Hard work": 53.8,
+                "imagination": 26.8,
+                "independence": 56.3,
+                "obedience": 43.5,
+                "religious faith": 24.5,
+                "tolerance and respect for other people": 71.7,
+                "unselfishness": 37.6
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "BRA": {
+            "1995-1999": {
+                "determination perseverance": 34.6,
+                "feeling of responsibility": 64.7,
+                "Hard work": 47.4,
+                "imagination": 7.7,
+                "independence": 19.8,
+                "obedience": 59.1,
+                "religious faith": 56.7,
+                "tolerance and respect for other people": 59.7,
+                "unselfishness": 32.2
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 31.4,
+                "feeling of responsibility": 77.9,
+                "Hard work": 61.1,
+                "imagination": 26.7,
+                "independence": 28.5,
+                "obedience": 56.6,
+                "religious faith": 55.7,
+                "tolerance and respect for other people": 64.4,
+                "unselfishness": 40.1
+            },
+            "2010-2014": {
+                "determination perseverance": 28.2,
+                "feeling of responsibility": 77.9,
+                "Hard work": 64.1,
+                "imagination": 24.4,
+                "independence": 37.6,
+                "obedience": 51.5,
+                "religious faith": 49.8,
+                "tolerance and respect for other people": 64.2,
+                "unselfishness": 31.5
+            }
+        },
+        "BLR": {
+            "1995-1999": {
+                "determination perseverance": 41.4,
+                "feeling of responsibility": 62.3,
+                "Hard work": 84,
+                "imagination": 8.5,
+                "independence": 29.8,
+                "obedience": 34.9,
+                "religious faith": 15,
+                "tolerance and respect for other people": 59.7,
+                "unselfishness": 17.5
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 35.1,
+                "feeling of responsibility": 80.6,
+                "Hard work": 87.6,
+                "imagination": 12.1,
+                "independence": 38.6,
+                "obedience": 33.8,
+                "religious faith": 14.4,
+                "tolerance and respect for other people": 60.7,
+                "unselfishness": 13.9
+            }
+        },
+        "BGR": {
+            "1995-1999": {
+                "determination perseverance": 44.3,
+                "feeling of responsibility": 63.6,
+                "Hard work": 92,
+                "imagination": 7.5,
+                "independence": 38.4,
+                "obedience": 20.3,
+                "religious faith": 16.1,
+                "tolerance and respect for other people": 46.4,
+                "unselfishness": 44.7
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 56.1,
+                "feeling of responsibility": 73.5,
+                "Hard work": 87,
+                "imagination": 17.3,
+                "independence": 46.1,
+                "obedience": 24.7,
+                "religious faith": 18.2,
+                "tolerance and respect for other people": 53,
+                "unselfishness": 49.6
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "CAN": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 48,
+                "feeling of responsibility": 77,
+                "Hard work": 52.7,
+                "imagination": 33,
+                "independence": 62.3,
+                "obedience": 29.8,
+                "religious faith": 30.8,
+                "tolerance and respect for other people": 80.6,
+                "unselfishness": 45.1
+            },
+            "2005-2009": {
+                "determination perseverance": 48.7,
+                "feeling of responsibility": 71.8,
+                "Hard work": 54.1,
+                "imagination": 33.7,
+                "independence": 58.1,
+                "obedience": 29.9,
+                "religious faith": 30.4,
+                "tolerance and respect for other people": 82.6,
+                "unselfishness": 47
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "CHL": {
+            "1995-1999": {
+                "determination perseverance": 34.4,
+                "feeling of responsibility": 73.8,
+                "Hard work": 16.8,
+                "imagination": 24.3,
+                "independence": 33.9,
+                "obedience": 45.8,
+                "religious faith": 45.6,
+                "tolerance and respect for other people": 61.1,
+                "unselfishness": 25.5
+            },
+            "2000-2004": {
+                "determination perseverance": 43.7,
+                "feeling of responsibility": 84.2,
+                "Hard work": 25.9,
+                "imagination": 35.7,
+                "independence": 52.7,
+                "obedience": 54.9,
+                "religious faith": 40.3,
+                "tolerance and respect for other people": 76,
+                "unselfishness": 34.2
+            },
+            "2005-2009": {
+                "determination perseverance": 44.6,
+                "feeling of responsibility": 82.8,
+                "Hard work": 27.2,
+                "imagination": 25.7,
+                "independence": 40.3,
+                "obedience": 51.9,
+                "religious faith": 39.7,
+                "tolerance and respect for other people": 79.5,
+                "unselfishness": 31.8
+            },
+            "2010-2014": {
+                "determination perseverance": 53.6,
+                "feeling of responsibility": 76.9,
+                "Hard work": 30.5,
+                "imagination": 22.2,
+                "independence": 49.2,
+                "obedience": 45.8,
+                "religious faith": 27.5,
+                "tolerance and respect for other people": 82,
+                "unselfishness": 42.7
+            }
+        },
+        "CHN": {
+            "1995-1999": {
+                "determination perseverance": 36.3,
+                "feeling of responsibility": 34.5,
+                "Hard work": 72.7,
+                "imagination": 22.1,
+                "independence": 50.1,
+                "obedience": 29.3,
+                "religious faith": 3.3,
+                "tolerance and respect for other people": 43,
+                "unselfishness": 28.2
+            },
+            "2000-2004": {
+                "determination perseverance": 16,
+                "feeling of responsibility": 63.6,
+                "Hard work": 85.8,
+                "imagination": 35.3,
+                "independence": 74.1,
+                "obedience": 14.8,
+                "religious faith": 0,
+                "tolerance and respect for other people": 72.6,
+                "unselfishness": 37
+            },
+            "2005-2009": {
+                "determination perseverance": 24,
+                "feeling of responsibility": 67.2,
+                "Hard work": 83.4,
+                "imagination": 25.3,
+                "independence": 69.8,
+                "obedience": 13.8,
+                "religious faith": 2.4,
+                "tolerance and respect for other people": 64.7,
+                "unselfishness": 30.8
+            },
+            "2010-2014": {
+                "determination perseverance": 26,
+                "feeling of responsibility": 65.9,
+                "Hard work": 75.3,
+                "imagination": 17,
+                "independence": 69.7,
+                "obedience": 7.5,
+                "religious faith": 1.2,
+                "tolerance and respect for other people": 52.2,
+                "unselfishness": 29.2
+            }
+        },
+        "TWN": {
+            "1995-1999": {
+                "determination perseverance": 34.4,
+                "feeling of responsibility": 81,
+                "Hard work": 41.7,
+                "imagination": 15.1,
+                "independence": 66.2,
+                "obedience": 33.2,
+                "religious faith": 8.6,
+                "tolerance and respect for other people": 59.2,
+                "unselfishness": 21.4
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 33.6,
+                "feeling of responsibility": 92,
+                "Hard work": 54.7,
+                "imagination": 17.5,
+                "independence": 80.3,
+                "obedience": 16.5,
+                "religious faith": 8.9,
+                "tolerance and respect for other people": 79.8,
+                "unselfishness": 30.1
+            },
+            "2010-2014": {
+                "determination perseverance": 28,
+                "feeling of responsibility": 82.4,
+                "Hard work": 40.4,
+                "imagination": 18.7,
+                "independence": 72.3,
+                "obedience": 11.1,
+                "religious faith": 9,
+                "tolerance and respect for other people": 77.4,
+                "unselfishness": 24.4
+            }
+        },
+        "COL": {
+            "1995-1999": {
+                "determination perseverance": 19.5,
+                "feeling of responsibility": 76.9,
+                "Hard work": 18,
+                "imagination": 18.9,
+                "independence": 27.1,
+                "obedience": 42.7,
+                "religious faith": 42.3,
+                "tolerance and respect for other people": 68.3,
+                "unselfishness": 37.3
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 20.1,
+                "feeling of responsibility": 82.9,
+                "Hard work": 19,
+                "imagination": 17.8,
+                "independence": 33.5,
+                "obedience": 59.2,
+                "religious faith": 47.7,
+                "tolerance and respect for other people": 84.1,
+                "unselfishness": 53.4
+            },
+            "2010-2014": {
+                "determination perseverance": 24.3,
+                "feeling of responsibility": 82,
+                "Hard work": 13.6,
+                "imagination": 20.8,
+                "independence": 36.4,
+                "obedience": 66.4,
+                "religious faith": 60.3,
+                "tolerance and respect for other people": 86.4,
+                "unselfishness": 45.8
+            }
+        },
+        "HRV": {
+            "1995-1999": {
+                "determination perseverance": 44.2,
+                "feeling of responsibility": 67.2,
+                "Hard work": 63.7,
+                "imagination": 16.7,
+                "independence": 63.5,
+                "obedience": 21.3,
+                "religious faith": 19.1,
+                "tolerance and respect for other people": 64.3,
+                "unselfishness": 29.4
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "CYP": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 44.4,
+                "feeling of responsibility": 77.8,
+                "Hard work": 45.6,
+                "imagination": 17.6,
+                "independence": 46.7,
+                "obedience": 49.8,
+                "religious faith": 42.2,
+                "tolerance and respect for other people": 70.4,
+                "unselfishness": 43.5
+            },
+            "2010-2014": {
+                "determination perseverance": 41,
+                "feeling of responsibility": 80.7,
+                "Hard work": 40.8,
+                "imagination": 23.4,
+                "independence": 43.1,
+                "obedience": 37.2,
+                "religious faith": 37.4,
+                "tolerance and respect for other people": 69.7,
+                "unselfishness": 36
+            }
+        },
+        "CZE": {
+            "1995-1999": {
+                "determination perseverance": 35,
+                "feeling of responsibility": 69.1,
+                "Hard work": 78.9,
+                "imagination": 5.1,
+                "independence": 22.5,
+                "obedience": 14,
+                "religious faith": 8.9,
+                "tolerance and respect for other people": 60,
+                "unselfishness": 32.3
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "COD": {
+            "1995-1999": {
+                "determination perseverance": 27.1,
+                "feeling of responsibility": 84.4,
+                "Hard work": 49.6,
+                "imagination": 12.5,
+                "independence": 40,
+                "obedience": 50.8,
+                "religious faith": 59.2,
+                "tolerance and respect for other people": 67.9,
+                "unselfishness": 12.2
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "SLV": {
+            "1995-1999": {
+                "determination perseverance": 14,
+                "feeling of responsibility": 66.9,
+                "Hard work": 38.4,
+                "imagination": 10.4,
+                "independence": 35.6,
+                "obedience": 62.4,
+                "religious faith": 67,
+                "tolerance and respect for other people": 58.8,
+                "unselfishness": 27.8
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "ECU": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 25.4,
+                "feeling of responsibility": 75,
+                "Hard work": 44.3,
+                "imagination": 25.1,
+                "independence": 37.4,
+                "obedience": 59.7,
+                "religious faith": 49,
+                "tolerance and respect for other people": 67.7,
+                "unselfishness": 54.1
+            }
+        },
+        "EST": {
+            "1995-1999": {
+                "determination perseverance": 49,
+                "feeling of responsibility": 77.1,
+                "Hard work": 87.1,
+                "imagination": 8.6,
+                "independence": 53.8,
+                "obedience": 27,
+                "religious faith": 5,
+                "tolerance and respect for other people": 59.6,
+                "unselfishness": 16.8
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 69.4,
+                "feeling of responsibility": 88.4,
+                "Hard work": 87.5,
+                "imagination": 36.8,
+                "independence": 54.5,
+                "obedience": 62.7,
+                "religious faith": 18.8,
+                "tolerance and respect for other people": 84.5,
+                "unselfishness": 42.5
+            }
+        },
+        "ETH": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 30.5,
+                "feeling of responsibility": 47.2,
+                "Hard work": 54.5,
+                "imagination": 39.1,
+                "independence": 79.2,
+                "obedience": 38.9,
+                "religious faith": 41.3,
+                "tolerance and respect for other people": 36.1,
+                "unselfishness": 36.2
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "FIN": {
+            "1995-1999": {
+                "determination perseverance": 44.4,
+                "feeling of responsibility": 87,
+                "Hard work": 14.7,
+                "imagination": 23.5,
+                "independence": 56,
+                "obedience": 28.1,
+                "religious faith": 11.2,
+                "tolerance and respect for other people": 82.5,
+                "unselfishness": 18.2
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 64.3,
+                "feeling of responsibility": 90.1,
+                "Hard work": 14.7,
+                "imagination": 37.9,
+                "independence": 69.3,
+                "obedience": 32.7,
+                "religious faith": 12,
+                "tolerance and respect for other people": 86.7,
+                "unselfishness": 30.1
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "FRA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 55,
+                "feeling of responsibility": 78.9,
+                "Hard work": 62.2,
+                "imagination": 25,
+                "independence": 37.2,
+                "obedience": 41.2,
+                "religious faith": 8.7,
+                "tolerance and respect for other people": 86.8,
+                "unselfishness": 55.1
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "GEO": {
+            "1995-1999": {
+                "determination perseverance": 36.6,
+                "feeling of responsibility": 67.6,
+                "Hard work": 81.9,
+                "imagination": 10.3,
+                "independence": 50.7,
+                "obedience": 22.9,
+                "religious faith": 31,
+                "tolerance and respect for other people": 54.1,
+                "unselfishness": 19.7
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 26.5,
+                "feeling of responsibility": 81.1,
+                "Hard work": 89.5,
+                "imagination": 9.7,
+                "independence": 53.7,
+                "obedience": 21.9,
+                "religious faith": 67.3,
+                "tolerance and respect for other people": 72.1,
+                "unselfishness": 16.9
+            },
+            "2010-2014": {
+                "determination perseverance": 24.7,
+                "feeling of responsibility": 87.7,
+                "Hard work": 91.3,
+                "imagination": 9.2,
+                "independence": 61.6,
+                "obedience": 18.8,
+                "religious faith": 63.6,
+                "tolerance and respect for other people": 67.4,
+                "unselfishness": 14.6
+            }
+        },
+        "PSE": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 20,
+                "feeling of responsibility": 68.6,
+                "Hard work": 43,
+                "imagination": 18.4,
+                "independence": 42.9,
+                "obedience": 48.2,
+                "religious faith": 76.2,
+                "tolerance and respect for other people": 70.3,
+                "unselfishness": 34.6
+            }
+        },
+        "DEU": {
+            "1995-1999": {
+                "determination perseverance": 41,
+                "feeling of responsibility": 92.3,
+                "Hard work": 9.9,
+                "imagination": 33.5,
+                "independence": 51.5,
+                "obedience": 12.3,
+                "religious faith": 11.6,
+                "tolerance and respect for other people": 88.3,
+                "unselfishness": 5.4
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 64.2,
+                "feeling of responsibility": 85.1,
+                "Hard work": 26,
+                "imagination": 39.6,
+                "independence": 77.6,
+                "obedience": 15.8,
+                "religious faith": 9.3,
+                "tolerance and respect for other people": 74.6,
+                "unselfishness": 6.8
+            },
+            "2010-2014": {
+                "determination perseverance": 59.6,
+                "feeling of responsibility": 80.9,
+                "Hard work": 17.9,
+                "imagination": 29.5,
+                "independence": 73.5,
+                "obedience": 12.6,
+                "religious faith": 12.1,
+                "tolerance and respect for other people": 66.7,
+                "unselfishness": 5.9
+            }
+        },
+        "GHA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 43.3,
+                "feeling of responsibility": 44.3,
+                "Hard work": 79.1,
+                "imagination": 17.1,
+                "independence": 37.2,
+                "obedience": 81.7,
+                "religious faith": 72.6,
+                "tolerance and respect for other people": 70.7,
+                "unselfishness": 33.1
+            },
+            "2010-2014": {
+                "determination perseverance": 45.9,
+                "feeling of responsibility": 34.9,
+                "Hard work": 85.5,
+                "imagination": 12,
+                "independence": 28.8,
+                "obedience": 73.8,
+                "religious faith": 70.6,
+                "tolerance and respect for other people": 66.1,
+                "unselfishness": 24.6
+            }
+        },
+        "GTM": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 22.2,
+                "feeling of responsibility": 63.9,
+                "Hard work": 28.9,
+                "imagination": 11.2,
+                "independence": 27,
+                "obedience": 47.4,
+                "religious faith": 58.4,
+                "tolerance and respect for other people": 59,
+                "unselfishness": 42.7
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "HTI": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 31.5,
+                "feeling of responsibility": 34.7,
+                "Hard work": 78.4,
+                "imagination": 9.9,
+                "independence": 16.8,
+                "obedience": 84.3,
+                "religious faith": 12.3,
+                "tolerance and respect for other people": 43.8,
+                "unselfishness": 67.7
+            }
+        },
+        "HKG": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 5.9,
+                "feeling of responsibility": 26.4,
+                "Hard work": 18.6,
+                "imagination": 2.4,
+                "independence": 23.9,
+                "obedience": 2.2,
+                "religious faith": 1.2,
+                "tolerance and respect for other people": 14.2,
+                "unselfishness": 1.8
+            },
+            "2010-2014": {
+                "determination perseverance": 43,
+                "feeling of responsibility": 79.3,
+                "Hard work": 58,
+                "imagination": 18.8,
+                "independence": 72.6,
+                "obedience": 17.7,
+                "religious faith": 10.9,
+                "tolerance and respect for other people": 69.2,
+                "unselfishness": 15.1
+            }
+        },
+        "HUN": {
+            "1995-1999": {
+                "determination perseverance": 62.3,
+                "feeling of responsibility": 85.1,
+                "Hard work": 33.7,
+                "imagination": 12.8,
+                "independence": 44.2,
+                "obedience": 30.8,
+                "religious faith": 17.5,
+                "tolerance and respect for other people": 63.5,
+                "unselfishness": 28.8
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 51.5,
+                "feeling of responsibility": 83.3,
+                "Hard work": 41.3,
+                "imagination": 17.9,
+                "independence": 81.4,
+                "obedience": 30.8,
+                "religious faith": 16.1,
+                "tolerance and respect for other people": 76.1,
+                "unselfishness": 32.4
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "IND": {
+            "1995-1999": {
+                "determination perseverance": 28.8,
+                "feeling of responsibility": 48.2,
+                "Hard work": 71.6,
+                "imagination": 10.8,
+                "independence": 37.4,
+                "obedience": 69.9,
+                "religious faith": 36,
+                "tolerance and respect for other people": 51.6,
+                "unselfishness": 22.5
+            },
+            "2000-2004": {
+                "determination perseverance": 46.4,
+                "feeling of responsibility": 67.6,
+                "Hard work": 84.9,
+                "imagination": 28.1,
+                "independence": 56.2,
+                "obedience": 55.7,
+                "religious faith": 46.6,
+                "tolerance and respect for other people": 63.2,
+                "unselfishness": 36.6
+            },
+            "2005-2009": {
+                "determination perseverance": 40.7,
+                "feeling of responsibility": 68,
+                "Hard work": 81.3,
+                "imagination": 25.4,
+                "independence": 66.9,
+                "obedience": 55.9,
+                "religious faith": 41.3,
+                "tolerance and respect for other people": 55.8,
+                "unselfishness": 34.2
+            },
+            "2010-2014": {
+                "determination perseverance": 84.7,
+                "feeling of responsibility": 90.5,
+                "Hard work": 94.6,
+                "imagination": 69.2,
+                "independence": 89.9,
+                "obedience": 89.9,
+                "religious faith": 83.1,
+                "tolerance and respect for other people": 89.3,
+                "unselfishness": 81.1
+            }
+        },
+        "IDN": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 43.7,
+                "feeling of responsibility": 82.1,
+                "Hard work": 66.7,
+                "imagination": 28.9,
+                "independence": 76.6,
+                "obedience": 53.3,
+                "religious faith": 93.1,
+                "tolerance and respect for other people": 62.9,
+                "unselfishness": 47.3
+            },
+            "2005-2009": {
+                "determination perseverance": 41.5,
+                "feeling of responsibility": 83.9,
+                "Hard work": 59.4,
+                "imagination": 18.2,
+                "independence": 82,
+                "obedience": 53.3,
+                "religious faith": 90.6,
+                "tolerance and respect for other people": 59.1,
+                "unselfishness": 32.6
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "IRN": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 28.4,
+                "feeling of responsibility": 72,
+                "Hard work": 62.1,
+                "imagination": 11,
+                "independence": 53.2,
+                "obedience": 41.4,
+                "religious faith": 70.9,
+                "tolerance and respect for other people": 59,
+                "unselfishness": 28.9
+            },
+            "2005-2009": {
+                "determination perseverance": 30.3,
+                "feeling of responsibility": 81.1,
+                "Hard work": 68.8,
+                "imagination": 17.6,
+                "independence": 63.1,
+                "obedience": 32.4,
+                "religious faith": 71.4,
+                "tolerance and respect for other people": 64.5,
+                "unselfishness": 32.5
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "IRQ": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 75.7,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 28.8,
+                "obedience": 73.8,
+                "religious faith": 92,
+                "tolerance and respect for other people": 77.8,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 20.8,
+                "feeling of responsibility": 82.9,
+                "Hard work": 63.4,
+                "imagination": 9.1,
+                "independence": 28.9,
+                "obedience": 73.3,
+                "religious faith": 89.9,
+                "tolerance and respect for other people": 85.2,
+                "unselfishness": 9.4
+            },
+            "2010-2014": {
+                "determination perseverance": 22.2,
+                "feeling of responsibility": 70.3,
+                "Hard work": 57.8,
+                "imagination": 15.3,
+                "independence": 36.8,
+                "obedience": 68.4,
+                "religious faith": 75,
+                "tolerance and respect for other people": 74.2,
+                "unselfishness": 34
+            }
+        },
+        "ISR": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 30.7,
+                "feeling of responsibility": 65.5,
+                "Hard work": 24.2,
+                "imagination": 22.8,
+                "independence": 68.6,
+                "obedience": 16.3,
+                "religious faith": 29.1,
+                "tolerance and respect for other people": 81.9,
+                "unselfishness": 49
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "ITA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 44.2,
+                "feeling of responsibility": 87.1,
+                "Hard work": 39.3,
+                "imagination": 14.6,
+                "independence": 58.5,
+                "obedience": 26.1,
+                "religious faith": 34.4,
+                "tolerance and respect for other people": 73.9,
+                "unselfishness": 43.9
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "JPN": {
+            "1995-1999": {
+                "determination perseverance": 61.5,
+                "feeling of responsibility": 87.6,
+                "Hard work": 24.4,
+                "imagination": 25.9,
+                "independence": 60.4,
+                "obedience": 6.3,
+                "religious faith": 5.8,
+                "tolerance and respect for other people": 58.3,
+                "unselfishness": 37.8
+            },
+            "2000-2004": {
+                "determination perseverance": 69,
+                "feeling of responsibility": 90.7,
+                "Hard work": 27.1,
+                "imagination": 34.5,
+                "independence": 81.8,
+                "obedience": 4.3,
+                "religious faith": 6.5,
+                "tolerance and respect for other people": 71.2,
+                "unselfishness": 53.2
+            },
+            "2005-2009": {
+                "determination perseverance": 67.2,
+                "feeling of responsibility": 90.6,
+                "Hard work": 32.4,
+                "imagination": 30.8,
+                "independence": 80,
+                "obedience": 5.1,
+                "religious faith": 5.6,
+                "tolerance and respect for other people": 74.5,
+                "unselfishness": 50.3
+            },
+            "2010-2014": {
+                "determination perseverance": 67.8,
+                "feeling of responsibility": 87.3,
+                "Hard work": 35.1,
+                "imagination": 31.6,
+                "independence": 67.7,
+                "obedience": 5,
+                "religious faith": 4.4,
+                "tolerance and respect for other people": 64.6,
+                "unselfishness": 45.1
+            }
+        },
+        "KAZ": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 44.7,
+                "feeling of responsibility": 75,
+                "Hard work": 84.7,
+                "imagination": 12.4,
+                "independence": 43.7,
+                "obedience": 32.9,
+                "religious faith": 10,
+                "tolerance and respect for other people": 60,
+                "unselfishness": 29.7
+            }
+        },
+        "JOR": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 16.9,
+                "feeling of responsibility": 65.4,
+                "Hard work": 44.8,
+                "imagination": 5.4,
+                "independence": 22.3,
+                "obedience": 46.2,
+                "religious faith": 83.9,
+                "tolerance and respect for other people": 67.3,
+                "unselfishness": 31.7
+            },
+            "2005-2009": {
+                "determination perseverance": 30.8,
+                "feeling of responsibility": 59.8,
+                "Hard work": 42.6,
+                "imagination": 17.8,
+                "independence": 42.8,
+                "obedience": 64.9,
+                "religious faith": 84,
+                "tolerance and respect for other people": 74.6,
+                "unselfishness": 56
+            },
+            "2010-2014": {
+                "determination perseverance": 27.4,
+                "feeling of responsibility": 73.1,
+                "Hard work": 39.5,
+                "imagination": 14.8,
+                "independence": 43.6,
+                "obedience": 56.2,
+                "religious faith": 79.8,
+                "tolerance and respect for other people": 76.5,
+                "unselfishness": 36.5
+            }
+        },
+        "KOR": {
+            "1995-1999": {
+                "determination perseverance": 35.6,
+                "feeling of responsibility": 88.1,
+                "Hard work": 62.2,
+                "imagination": 7.8,
+                "independence": 59.7,
+                "obedience": 14.4,
+                "religious faith": 16.6,
+                "tolerance and respect for other people": 46.8,
+                "unselfishness": 10.6
+            },
+            "2000-2004": {
+                "determination perseverance": 42.4,
+                "feeling of responsibility": 92.3,
+                "Hard work": 71.6,
+                "imagination": 33.4,
+                "independence": 77.3,
+                "obedience": 13.2,
+                "religious faith": 21.2,
+                "tolerance and respect for other people": 64.7,
+                "unselfishness": 14.7
+            },
+            "2005-2009": {
+                "determination perseverance": 44.9,
+                "feeling of responsibility": 90.2,
+                "Hard work": 72.4,
+                "imagination": 41.1,
+                "independence": 67.6,
+                "obedience": 13.5,
+                "religious faith": 21.5,
+                "tolerance and respect for other people": 56.9,
+                "unselfishness": 11.6
+            },
+            "2010-2014": {
+                "determination perseverance": 54.5,
+                "feeling of responsibility": 87.8,
+                "Hard work": 64.3,
+                "imagination": 14.5,
+                "independence": 57.8,
+                "obedience": 8.7,
+                "religious faith": 25,
+                "tolerance and respect for other people": 40.8,
+                "unselfishness": 10.5
+            }
+        },
+        "KWT": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 28.4,
+                "feeling of responsibility": 60.3,
+                "Hard work": 51.3,
+                "imagination": 28,
+                "independence": 41.8,
+                "obedience": 56.3,
+                "religious faith": 73.8,
+                "tolerance and respect for other people": 67.8,
+                "unselfishness": 39
+            }
+        },
+        "KGZ": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 51.1,
+                "feeling of responsibility": 78.2,
+                "Hard work": 87.3,
+                "imagination": 37.7,
+                "independence": 54.8,
+                "obedience": 37.4,
+                "religious faith": 22.6,
+                "tolerance and respect for other people": 65.5,
+                "unselfishness": 23.7
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 51.9,
+                "feeling of responsibility": 76.3,
+                "Hard work": 84.6,
+                "imagination": 14.8,
+                "independence": 61.2,
+                "obedience": 38.6,
+                "religious faith": 24.8,
+                "tolerance and respect for other people": 57.6,
+                "unselfishness": 28.8
+            }
+        },
+        "LVA": {
+            "1995-1999": {
+                "determination perseverance": 47.6,
+                "feeling of responsibility": 79.9,
+                "Hard work": 86.4,
+                "imagination": 9.5,
+                "independence": 37.8,
+                "obedience": 19.4,
+                "religious faith": 13.9,
+                "tolerance and respect for other people": 72.5,
+                "unselfishness": 20.2
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "LTU": {
+            "1995-1999": {
+                "determination perseverance": 36.2,
+                "feeling of responsibility": 73.7,
+                "Hard work": 88.5,
+                "imagination": 7.1,
+                "independence": 71.9,
+                "obedience": 22.9,
+                "religious faith": 22.5,
+                "tolerance and respect for other people": 54.1,
+                "unselfishness": 28.4
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "LBN": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 30.8,
+                "feeling of responsibility": 51.7,
+                "Hard work": 39.8,
+                "imagination": 18.7,
+                "independence": 32.3,
+                "obedience": 17.4,
+                "religious faith": 33.6,
+                "tolerance and respect for other people": 46.9,
+                "unselfishness": 28.7
+            }
+        },
+        "LBY": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 25.2,
+                "feeling of responsibility": 71.8,
+                "Hard work": 41.4,
+                "imagination": 12.2,
+                "independence": 38.4,
+                "obedience": 59,
+                "religious faith": 79.1,
+                "tolerance and respect for other people": 80,
+                "unselfishness": 35.3
+            }
+        },
+        "MYS": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 33.3,
+                "feeling of responsibility": 78.6,
+                "Hard work": 49.1,
+                "imagination": 21.6,
+                "independence": 78.7,
+                "obedience": 25.9,
+                "religious faith": 59.6,
+                "tolerance and respect for other people": 73.7,
+                "unselfishness": 30.1
+            },
+            "2010-2014": {
+                "determination perseverance": 40.1,
+                "feeling of responsibility": 64.9,
+                "Hard work": 43.6,
+                "imagination": 24.4,
+                "independence": 71.7,
+                "obedience": 24.9,
+                "religious faith": 63.8,
+                "tolerance and respect for other people": 74.6,
+                "unselfishness": 30.6
+            }
+        },
+        "MLI": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 24.4,
+                "feeling of responsibility": 45,
+                "Hard work": 72.6,
+                "imagination": 23.6,
+                "independence": 42.4,
+                "obedience": 52.3,
+                "religious faith": 59.6,
+                "tolerance and respect for other people": 59.9,
+                "unselfishness": 33.9
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "MEX": {
+            "1995-1999": {
+                "determination perseverance": 39.7,
+                "feeling of responsibility": 66.8,
+                "Hard work": 33.1,
+                "imagination": 27.7,
+                "independence": 39.8,
+                "obedience": 49.9,
+                "religious faith": 43.6,
+                "tolerance and respect for other people": 57.3,
+                "unselfishness": 38.3
+            },
+            "2000-2004": {
+                "determination perseverance": 32.9,
+                "feeling of responsibility": 76.8,
+                "Hard work": 30.1,
+                "imagination": 24.4,
+                "independence": 42.3,
+                "obedience": 59.5,
+                "religious faith": 53.1,
+                "tolerance and respect for other people": 70.6,
+                "unselfishness": 49.5
+            },
+            "2005-2009": {
+                "determination perseverance": 36.3,
+                "feeling of responsibility": 77.8,
+                "Hard work": 24.3,
+                "imagination": 24.6,
+                "independence": 40.8,
+                "obedience": 58.3,
+                "religious faith": 38.8,
+                "tolerance and respect for other people": 78.1,
+                "unselfishness": 47.6
+            },
+            "2010-2014": {
+                "determination perseverance": 27,
+                "feeling of responsibility": 74.9,
+                "Hard work": 38,
+                "imagination": 23.8,
+                "independence": 38.5,
+                "obedience": 54.5,
+                "religious faith": 35.3,
+                "tolerance and respect for other people": 77.9,
+                "unselfishness": 43.5
+            }
+        },
+        "MDA": {
+            "1995-1999": {
+                "determination perseverance": 29.5,
+                "feeling of responsibility": 66.5,
+                "Hard work": 87.3,
+                "imagination": 12.9,
+                "independence": 35.9,
+                "obedience": 39.4,
+                "religious faith": 28,
+                "tolerance and respect for other people": 63.4,
+                "unselfishness": 9.3
+            },
+            "2000-2004": {
+                "determination perseverance": 33.3,
+                "feeling of responsibility": 82.6,
+                "Hard work": 87.3,
+                "imagination": 26.4,
+                "independence": 55.7,
+                "obedience": 41.2,
+                "religious faith": 42.6,
+                "tolerance and respect for other people": 77.9,
+                "unselfishness": 11.5
+            },
+            "2005-2009": {
+                "determination perseverance": 25.2,
+                "feeling of responsibility": 69.6,
+                "Hard work": 79.4,
+                "imagination": 20.8,
+                "independence": 44.9,
+                "obedience": 16.8,
+                "religious faith": 41.6,
+                "tolerance and respect for other people": 66.5,
+                "unselfishness": 32.3
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "MAR": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 16,
+                "feeling of responsibility": 64.2,
+                "Hard work": 73.4,
+                "imagination": 6.7,
+                "independence": 33.5,
+                "obedience": 57.5,
+                "religious faith": 89.2,
+                "tolerance and respect for other people": 74.3,
+                "unselfishness": 8.9
+            },
+            "2005-2009": {
+                "determination perseverance": 27.3,
+                "feeling of responsibility": 69,
+                "Hard work": 51,
+                "imagination": 26.2,
+                "independence": 54.8,
+                "obedience": 50.9,
+                "religious faith": 68.2,
+                "tolerance and respect for other people": 58.6,
+                "unselfishness": 36.6
+            },
+            "2010-2014": {
+                "determination perseverance": 19.2,
+                "feeling of responsibility": 63.8,
+                "Hard work": 67.1,
+                "imagination": 23.9,
+                "independence": 43,
+                "obedience": 29.2,
+                "religious faith": 77.6,
+                "tolerance and respect for other people": 56.6,
+                "unselfishness": 25.3
+            }
+        },
+        "NGA": {
+            "1995-1999": {
+                "determination perseverance": 38.9,
+                "feeling of responsibility": 27.5,
+                "Hard work": 82.8,
+                "imagination": 6.1,
+                "independence": 20.2,
+                "obedience": 71.4,
+                "religious faith": 72,
+                "tolerance and respect for other people": 63.5,
+                "unselfishness": 14.7
+            },
+            "2000-2004": {
+                "determination perseverance": 22.9,
+                "feeling of responsibility": 33.1,
+                "Hard work": 80.2,
+                "imagination": 10.9,
+                "independence": 26,
+                "obedience": 72.5,
+                "religious faith": 67.7,
+                "tolerance and respect for other people": 59.1,
+                "unselfishness": 23.3
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 36.9,
+                "feeling of responsibility": 42.6,
+                "Hard work": 78,
+                "imagination": 15.1,
+                "independence": 38.9,
+                "obedience": 62.8,
+                "religious faith": 72.7,
+                "tolerance and respect for other people": 59.8,
+                "unselfishness": 31.7
+            }
+        },
+        "NLD": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 37.7,
+                "feeling of responsibility": 89.9,
+                "Hard work": 29.3,
+                "imagination": 27.5,
+                "independence": 66.6,
+                "obedience": 39.8,
+                "religious faith": 9.7,
+                "tolerance and respect for other people": 85.8,
+                "unselfishness": 25
+            },
+            "2010-2014": {
+                "determination perseverance": 37.1,
+                "feeling of responsibility": 90.8,
+                "Hard work": 31.3,
+                "imagination": 20,
+                "independence": 60.7,
+                "obedience": 25.6,
+                "religious faith": 13.9,
+                "tolerance and respect for other people": 86,
+                "unselfishness": 22.9
+            }
+        },
+        "NZL": {
+            "1995-1999": {
+                "determination perseverance": 39.3,
+                "feeling of responsibility": 58.9,
+                "Hard work": 37.1,
+                "imagination": 27.8,
+                "independence": 53.7,
+                "obedience": 21.9,
+                "religious faith": 15.7,
+                "tolerance and respect for other people": 77.9,
+                "unselfishness": 32.7
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 48.7,
+                "feeling of responsibility": 63,
+                "Hard work": 41.1,
+                "imagination": 35.1,
+                "independence": 53.2,
+                "obedience": 24.4,
+                "religious faith": 14.6,
+                "tolerance and respect for other people": 82.5,
+                "unselfishness": 38.5
+            },
+            "2010-2014": {
+                "determination perseverance": 48.5,
+                "feeling of responsibility": 56.1,
+                "Hard work": 50.2,
+                "imagination": 36.3,
+                "independence": 53.5,
+                "obedience": 24.1,
+                "religious faith": 15.9,
+                "tolerance and respect for other people": 83.1,
+                "unselfishness": 36.6
+            }
+        },
+        "NOR": {
+            "1995-1999": {
+                "determination perseverance": 35.5,
+                "feeling of responsibility": 92.3,
+                "Hard work": 10.7,
+                "imagination": 36.6,
+                "independence": 88.6,
+                "obedience": 25.9,
+                "religious faith": 11.7,
+                "tolerance and respect for other people": 65.9,
+                "unselfishness": 11.2
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 42.2,
+                "feeling of responsibility": 89.1,
+                "Hard work": 12.7,
+                "imagination": 54.6,
+                "independence": 90,
+                "obedience": 28.7,
+                "religious faith": 8.6,
+                "tolerance and respect for other people": 91.4,
+                "unselfishness": 19.8
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "PAK": {
+            "1995-1999": {
+                "determination perseverance": 33.4,
+                "feeling of responsibility": 71.3,
+                "Hard work": 53,
+                "imagination": 7,
+                "independence": 19.8,
+                "obedience": 32,
+                "religious faith": 80.6,
+                "tolerance and respect for other people": 55.3,
+                "unselfishness": 30.8
+            },
+            "2000-2004": {
+                "determination perseverance": 29.4,
+                "feeling of responsibility": 50.2,
+                "Hard work": 56.2,
+                "imagination": 7.3,
+                "independence": 12.7,
+                "obedience": 44.4,
+                "religious faith": 86.2,
+                "tolerance and respect for other people": 53,
+                "unselfishness": 38.2
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 35.9,
+                "feeling of responsibility": 62.3,
+                "Hard work": 55.7,
+                "imagination": 31.2,
+                "independence": 43.1,
+                "obedience": 50,
+                "religious faith": 72.8,
+                "tolerance and respect for other people": 52.8,
+                "unselfishness": 36.6
+            }
+        },
+        "PER": {
+            "1995-1999": {
+                "determination perseverance": 24.2,
+                "feeling of responsibility": 77.5,
+                "Hard work": 62.7,
+                "imagination": 18.6,
+                "independence": 20.8,
+                "obedience": 50.1,
+                "religious faith": 51.6,
+                "tolerance and respect for other people": 63,
+                "unselfishness": 15.6
+            },
+            "2000-2004": {
+                "determination perseverance": 33.5,
+                "feeling of responsibility": 78.9,
+                "Hard work": 59.3,
+                "imagination": 22.9,
+                "independence": 38.6,
+                "obedience": 61,
+                "religious faith": 55.6,
+                "tolerance and respect for other people": 72.6,
+                "unselfishness": 50.3
+            },
+            "2005-2009": {
+                "determination perseverance": 17.5,
+                "feeling of responsibility": 73.3,
+                "Hard work": 54.2,
+                "imagination": 12.8,
+                "independence": 27.5,
+                "obedience": 53.9,
+                "religious faith": 45,
+                "tolerance and respect for other people": 66.2,
+                "unselfishness": 59.8
+            },
+            "2010-2014": {
+                "determination perseverance": 23.4,
+                "feeling of responsibility": 71.3,
+                "Hard work": 16.5,
+                "imagination": 16.7,
+                "independence": 33.3,
+                "obedience": 52.3,
+                "religious faith": 42.1,
+                "tolerance and respect for other people": 67.6,
+                "unselfishness": 38.6
+            }
+        },
+        "PHL": {
+            "1995-1999": {
+                "determination perseverance": 28.6,
+                "feeling of responsibility": 57.9,
+                "Hard work": 57.8,
+                "imagination": 9.7,
+                "independence": 51.1,
+                "obedience": 44.2,
+                "religious faith": 62.7,
+                "tolerance and respect for other people": 47.6,
+                "unselfishness": 30.6
+            },
+            "2000-2004": {
+                "determination perseverance": 37,
+                "feeling of responsibility": 64.7,
+                "Hard work": 74,
+                "imagination": 13.6,
+                "independence": 65.7,
+                "obedience": 44.4,
+                "religious faith": 59.3,
+                "tolerance and respect for other people": 60.1,
+                "unselfishness": 39.4
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 29.9,
+                "feeling of responsibility": 67.2,
+                "Hard work": 69.5,
+                "imagination": 14,
+                "independence": 65,
+                "obedience": 40.8,
+                "religious faith": 59.8,
+                "tolerance and respect for other people": 62.3,
+                "unselfishness": 31.8
+            }
+        },
+        "POL": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 78,
+                "Hard work": 16,
+                "imagination": 11,
+                "independence": 32.2,
+                "obedience": 48.7,
+                "religious faith": 0,
+                "tolerance and respect for other people": 81.5,
+                "unselfishness": 13.9
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 25.2,
+                "feeling of responsibility": 81,
+                "Hard work": 21.3,
+                "imagination": 20.2,
+                "independence": 41.1,
+                "obedience": 48.8,
+                "religious faith": 46.7,
+                "tolerance and respect for other people": 84.9,
+                "unselfishness": 18.1
+            },
+            "2010-2014": {
+                "determination perseverance": 19.3,
+                "feeling of responsibility": 81,
+                "Hard work": 17.9,
+                "imagination": 16.8,
+                "independence": 43.4,
+                "obedience": 34.1,
+                "religious faith": 39.5,
+                "tolerance and respect for other people": 82.6,
+                "unselfishness": 15.1
+            }
+        },
+        "PRI": {
+            "1995-1999": {
+                "determination perseverance": 22,
+                "feeling of responsibility": 83.8,
+                "Hard work": 30.4,
+                "imagination": 13.1,
+                "independence": 27.9,
+                "obedience": 52.4,
+                "religious faith": 72.4,
+                "tolerance and respect for other people": 74.3,
+                "unselfishness": 40.5
+            },
+            "2000-2004": {
+                "determination perseverance": 23.8,
+                "feeling of responsibility": 74.3,
+                "Hard work": 51.8,
+                "imagination": 18.6,
+                "independence": 51.4,
+                "obedience": 56,
+                "religious faith": 68.6,
+                "tolerance and respect for other people": 60.7,
+                "unselfishness": 28.3
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "QAT": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 18.1,
+                "feeling of responsibility": 75.6,
+                "Hard work": 48.9,
+                "imagination": 12.4,
+                "independence": 34.3,
+                "obedience": 46.9,
+                "religious faith": 84.7,
+                "tolerance and respect for other people": 76.9,
+                "unselfishness": 32.5
+            }
+        },
+        "ROU": {
+            "1995-1999": {
+                "determination perseverance": 63,
+                "feeling of responsibility": 82.7,
+                "Hard work": 63.6,
+                "imagination": 39.5,
+                "independence": 50.8,
+                "obedience": 13.7,
+                "religious faith": 57.9,
+                "tolerance and respect for other people": 72.1,
+                "unselfishness": 23
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 30.3,
+                "feeling of responsibility": 68.8,
+                "Hard work": 83.3,
+                "imagination": 18.1,
+                "independence": 29.1,
+                "obedience": 17.5,
+                "religious faith": 62.8,
+                "tolerance and respect for other people": 58.6,
+                "unselfishness": 23.2
+            },
+            "2010-2014": {
+                "determination perseverance": 29.9,
+                "feeling of responsibility": 70.4,
+                "Hard work": 77.3,
+                "imagination": 32.7,
+                "independence": 42.2,
+                "obedience": 13,
+                "religious faith": 51.7,
+                "tolerance and respect for other people": 65.2,
+                "unselfishness": 12.6
+            }
+        },
+        "RUS": {
+            "1995-1999": {
+                "determination perseverance": 41.4,
+                "feeling of responsibility": 70.4,
+                "Hard work": 90.7,
+                "imagination": 5.9,
+                "independence": 27.8,
+                "obedience": 34,
+                "religious faith": 9.4,
+                "tolerance and respect for other people": 69.5,
+                "unselfishness": 21.3
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 52,
+                "feeling of responsibility": 80.2,
+                "Hard work": 88.6,
+                "imagination": 14.2,
+                "independence": 41.3,
+                "obedience": 37.9,
+                "religious faith": 11,
+                "tolerance and respect for other people": 68.6,
+                "unselfishness": 19.6
+            },
+            "2010-2014": {
+                "determination perseverance": 45.4,
+                "feeling of responsibility": 77.5,
+                "Hard work": 84.5,
+                "imagination": 16.5,
+                "independence": 37.8,
+                "obedience": 34.8,
+                "religious faith": 13.9,
+                "tolerance and respect for other people": 63.5,
+                "unselfishness": 22.6
+            }
+        },
+        "RWA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 58.6,
+                "feeling of responsibility": 54.2,
+                "Hard work": 83.1,
+                "imagination": 18,
+                "independence": 25.6,
+                "obedience": 78.8,
+                "religious faith": 37.6,
+                "tolerance and respect for other people": 63.8,
+                "unselfishness": 50.1
+            },
+            "2010-2014": {
+                "determination perseverance": 35.4,
+                "feeling of responsibility": 72,
+                "Hard work": 69.2,
+                "imagination": 33.3,
+                "independence": 30.3,
+                "obedience": 60.6,
+                "religious faith": 42.2,
+                "tolerance and respect for other people": 56.4,
+                "unselfishness": 52
+            }
+        },
+        "SAU": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 40.2,
+                "feeling of responsibility": 56.9,
+                "Hard work": 41.9,
+                "imagination": 31.1,
+                "independence": 70,
+                "obedience": 66.6,
+                "religious faith": 70.6,
+                "tolerance and respect for other people": 56.4,
+                "unselfishness": 52.4
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "SER": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 49.3,
+                "feeling of responsibility": 66.7,
+                "Hard work": 67.5,
+                "imagination": 21.6,
+                "independence": 63.9,
+                "obedience": 44.1,
+                "religious faith": 25.1,
+                "tolerance and respect for other people": 63.9,
+                "unselfishness": 32.7
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "SGP": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 39.9,
+                "feeling of responsibility": 83.6,
+                "Hard work": 63.7,
+                "imagination": 13.5,
+                "independence": 74.7,
+                "obedience": 46.9,
+                "religious faith": 30.1,
+                "tolerance and respect for other people": 69.8,
+                "unselfishness": 29.6
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 44.3,
+                "feeling of responsibility": 69.7,
+                "Hard work": 60.8,
+                "imagination": 18.8,
+                "independence": 72.1,
+                "obedience": 37.5,
+                "religious faith": 26.2,
+                "tolerance and respect for other people": 54.1,
+                "unselfishness": 26
+            }
+        },
+        "VNM": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 49.5,
+                "feeling of responsibility": 70.3,
+                "Hard work": 75.5,
+                "imagination": 20.2,
+                "independence": 56.4,
+                "obedience": 56.3,
+                "religious faith": 8.2,
+                "tolerance and respect for other people": 67.9,
+                "unselfishness": 39.3
+            },
+            "2005-2009": {
+                "determination perseverance": 62.5,
+                "feeling of responsibility": 75.3,
+                "Hard work": 88.9,
+                "imagination": 16.4,
+                "independence": 59.3,
+                "obedience": 32,
+                "religious faith": 6.1,
+                "tolerance and respect for other people": 50.4,
+                "unselfishness": 33.4
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "SVK": {
+            "1995-1999": {
+                "determination perseverance": 30.5,
+                "feeling of responsibility": 68.9,
+                "Hard work": 70.3,
+                "imagination": 4.6,
+                "independence": 22.4,
+                "obedience": 26.8,
+                "religious faith": 28.2,
+                "tolerance and respect for other people": 57.1,
+                "unselfishness": 18.9
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "SVN": {
+            "1995-1999": {
+                "determination perseverance": 48.5,
+                "feeling of responsibility": 70.3,
+                "Hard work": 33,
+                "imagination": 8.1,
+                "independence": 71.3,
+                "obedience": 28.2,
+                "religious faith": 19.2,
+                "tolerance and respect for other people": 72,
+                "unselfishness": 29.2
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 63.2,
+                "feeling of responsibility": 73.9,
+                "Hard work": 33.8,
+                "imagination": 16.3,
+                "independence": 83.2,
+                "obedience": 31.3,
+                "religious faith": 16.3,
+                "tolerance and respect for other people": 75,
+                "unselfishness": 38
+            },
+            "2010-2014": {
+                "determination perseverance": 65.2,
+                "feeling of responsibility": 83.1,
+                "Hard work": 50.9,
+                "imagination": 26.2,
+                "independence": 88,
+                "obedience": 41.2,
+                "religious faith": 23.4,
+                "tolerance and respect for other people": 81.2,
+                "unselfishness": 44.2
+            }
+        },
+        "ZAF": {
+            "1995-1999": {
+                "determination perseverance": 29.7,
+                "feeling of responsibility": 48.8,
+                "Hard work": 58.5,
+                "imagination": 10.6,
+                "independence": 31.2,
+                "obedience": 49.9,
+                "religious faith": 61.1,
+                "tolerance and respect for other people": 70,
+                "unselfishness": 22.4
+            },
+            "2000-2004": {
+                "determination perseverance": 41.9,
+                "feeling of responsibility": 59.2,
+                "Hard work": 75.3,
+                "imagination": 20,
+                "independence": 62.5,
+                "obedience": 51.9,
+                "religious faith": 61.4,
+                "tolerance and respect for other people": 74.1,
+                "unselfishness": 29.2
+            },
+            "2005-2009": {
+                "determination perseverance": 32.9,
+                "feeling of responsibility": 54.8,
+                "Hard work": 70.7,
+                "imagination": 15.6,
+                "independence": 58.8,
+                "obedience": 46.8,
+                "religious faith": 56.2,
+                "tolerance and respect for other people": 77.9,
+                "unselfishness": 30.6
+            },
+            "2010-2014": {
+                "determination perseverance": 35.3,
+                "feeling of responsibility": 57.4,
+                "Hard work": 70.2,
+                "imagination": 28.1,
+                "independence": 63.5,
+                "obedience": 37.2,
+                "religious faith": 44.3,
+                "tolerance and respect for other people": 52.5,
+                "unselfishness": 27.8
+            }
+        },
+        "ZWE": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 35.1,
+                "feeling of responsibility": 47.6,
+                "Hard work": 85.3,
+                "imagination": 11.1,
+                "independence": 26.2,
+                "obedience": 68.1,
+                "religious faith": 74.1,
+                "tolerance and respect for other people": 78.2,
+                "unselfishness": 32.9
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 49.4,
+                "feeling of responsibility": 43.1,
+                "Hard work": 76,
+                "imagination": 13.3,
+                "independence": 39.1,
+                "obedience": 70.1,
+                "religious faith": 59.6,
+                "tolerance and respect for other people": 63.8,
+                "unselfishness": 29.5
+            }
+        },
+        "ESP": {
+            "1995-1999": {
+                "determination perseverance": 21.2,
+                "feeling of responsibility": 69.8,
+                "Hard work": 64.4,
+                "imagination": 21.7,
+                "independence": 24.8,
+                "obedience": 43.8,
+                "religious faith": 21.8,
+                "tolerance and respect for other people": 75.6,
+                "unselfishness": 14.3
+            },
+            "2000-2004": {
+                "determination perseverance": 30.8,
+                "feeling of responsibility": 80.1,
+                "Hard work": 68.9,
+                "imagination": 25.2,
+                "independence": 44.4,
+                "obedience": 48.8,
+                "religious faith": 20.3,
+                "tolerance and respect for other people": 77,
+                "unselfishness": 20
+            },
+            "2005-2009": {
+                "determination perseverance": 29.6,
+                "feeling of responsibility": 69.7,
+                "Hard work": 62.6,
+                "imagination": 20.4,
+                "independence": 31.4,
+                "obedience": 36.9,
+                "religious faith": 11.2,
+                "tolerance and respect for other people": 71.7,
+                "unselfishness": 33.5
+            },
+            "2010-2014": {
+                "determination perseverance": 37.5,
+                "feeling of responsibility": 78.6,
+                "Hard work": 66.6,
+                "imagination": 24.8,
+                "independence": 43.1,
+                "obedience": 31.4,
+                "religious faith": 10.6,
+                "tolerance and respect for other people": 74.1,
+                "unselfishness": 35
+            }
+        },
+        "SWE": {
+            "1995-1999": {
+                "determination perseverance": 31.6,
+                "feeling of responsibility": 88.4,
+                "Hard work": 6.6,
+                "imagination": 39.1,
+                "independence": 60.7,
+                "obedience": 15.9,
+                "religious faith": 4.8,
+                "tolerance and respect for other people": 90.4,
+                "unselfishness": 23.7
+            },
+            "2000-2004": {
+                "determination perseverance": 29.2,
+                "feeling of responsibility": 86.9,
+                "Hard work": 3.9,
+                "imagination": 40.4,
+                "independence": 68.8,
+                "obedience": 12.7,
+                "religious faith": 4.9,
+                "tolerance and respect for other people": 92.5,
+                "unselfishness": 32.7
+            },
+            "2005-2009": {
+                "determination perseverance": 48.7,
+                "feeling of responsibility": 91.4,
+                "Hard work": 10.6,
+                "imagination": 57.1,
+                "independence": 77.4,
+                "obedience": 15.6,
+                "religious faith": 6.1,
+                "tolerance and respect for other people": 93.6,
+                "unselfishness": 34.9
+            },
+            "2010-2014": {
+                "determination perseverance": 33.6,
+                "feeling of responsibility": 82.5,
+                "Hard work": 13.8,
+                "imagination": 46.7,
+                "independence": 70.3,
+                "obedience": 12.2,
+                "religious faith": 4.4,
+                "tolerance and respect for other people": 87,
+                "unselfishness": 30.4
+            }
+        },
+        "CHE": {
+            "1995-1999": {
+                "determination perseverance": 47.6,
+                "feeling of responsibility": 80.3,
+                "Hard work": 39.6,
+                "imagination": 23.2,
+                "independence": 42.4,
+                "obedience": 24,
+                "religious faith": 20.5,
+                "tolerance and respect for other people": 79.3,
+                "unselfishness": 29.9
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 72.4,
+                "feeling of responsibility": 90.5,
+                "Hard work": 20.3,
+                "imagination": 48.1,
+                "independence": 77.7,
+                "obedience": 18.4,
+                "religious faith": 12.6,
+                "tolerance and respect for other people": 91.7,
+                "unselfishness": 14.3
+            },
+            "2010-2014": {
+                "determination perseverance": 50.3,
+                "feeling of responsibility": 65.7,
+                "Hard work": 78.3,
+                "imagination": 23.3,
+                "independence": 35.9,
+                "obedience": 44.2,
+                "religious faith": 34.7,
+                "tolerance and respect for other people": 64.7,
+                "unselfishness": 44.3
+            }
+        },
+        "THA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 46.2,
+                "feeling of responsibility": 60.6,
+                "Hard work": 22.9,
+                "imagination": 28.5,
+                "independence": 48.2,
+                "obedience": 53.8,
+                "religious faith": 29.5,
+                "tolerance and respect for other people": 58,
+                "unselfishness": 31
+            },
+            "2010-2014": {
+                "determination perseverance": 26,
+                "feeling of responsibility": 48.6,
+                "Hard work": 61.4,
+                "imagination": 5.8,
+                "independence": 58.6,
+                "obedience": 71.9,
+                "religious faith": 68.1,
+                "tolerance and respect for other people": 84.2,
+                "unselfishness": 16
+            }
+        },
+        "TTO": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 26.1,
+                "feeling of responsibility": 58.1,
+                "Hard work": 63.9,
+                "imagination": 6.3,
+                "independence": 54.8,
+                "obedience": 72.3,
+                "religious faith": 68.9,
+                "tolerance and respect for other people": 82.2,
+                "unselfishness": 23.7
+            },
+            "2010-2014": {
+                "determination perseverance": 28.7,
+                "feeling of responsibility": 77.3,
+                "Hard work": 73.9,
+                "imagination": 15,
+                "independence": 55.1,
+                "obedience": 38.7,
+                "religious faith": 76.1,
+                "tolerance and respect for other people": 54.9,
+                "unselfishness": 33.2
+            }
+        },
+        "TUR": {
+            "1995-1999": {
+                "determination perseverance": 18.7,
+                "feeling of responsibility": 59.3,
+                "Hard work": 69.3,
+                "imagination": 22.1,
+                "independence": 16.3,
+                "obedience": 35.7,
+                "religious faith": 50.9,
+                "tolerance and respect for other people": 58.6,
+                "unselfishness": 19.6
+            },
+            "2000-2004": {
+                "determination perseverance": 20.4,
+                "feeling of responsibility": 62.7,
+                "Hard work": 74.3,
+                "imagination": 23,
+                "independence": 15.7,
+                "obedience": 39.7,
+                "religious faith": 44.1,
+                "tolerance and respect for other people": 64.3,
+                "unselfishness": 20.4
+            },
+            "2005-2009": {
+                "determination perseverance": 36.7,
+                "feeling of responsibility": 74.9,
+                "Hard work": 78.8,
+                "imagination": 22.3,
+                "independence": 39.2,
+                "obedience": 45.8,
+                "religious faith": 42.2,
+                "tolerance and respect for other people": 70.1,
+                "unselfishness": 31.3
+            },
+            "2010-2014": {
+                "determination perseverance": 38,
+                "feeling of responsibility": 66.5,
+                "Hard work": 72,
+                "imagination": 28.3,
+                "independence": 35,
+                "obedience": 33.9,
+                "religious faith": 39.7,
+                "tolerance and respect for other people": 61.4,
+                "unselfishness": 27.7
+            }
+        },
+        "UGA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 35.3,
+                "feeling of responsibility": 52.4,
+                "Hard work": 85.6,
+                "imagination": 11.3,
+                "independence": 31.4,
+                "obedience": 71.7,
+                "religious faith": 68.5,
+                "tolerance and respect for other people": 56.8,
+                "unselfishness": 31.3
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "UKR": {
+            "1995-1999": {
+                "determination perseverance": 42.1,
+                "feeling of responsibility": 65.8,
+                "Hard work": 83.3,
+                "imagination": 11.2,
+                "independence": 33.7,
+                "obedience": 38.2,
+                "religious faith": 20.4,
+                "tolerance and respect for other people": 61.2,
+                "unselfishness": 18.8
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 48.5,
+                "feeling of responsibility": 65.5,
+                "Hard work": 76.8,
+                "imagination": 28,
+                "independence": 28.1,
+                "obedience": 49.9,
+                "religious faith": 15.6,
+                "tolerance and respect for other people": 56.1,
+                "unselfishness": 13.2
+            },
+            "2010-2014": {
+                "determination perseverance": 39.4,
+                "feeling of responsibility": 75.5,
+                "Hard work": 85.8,
+                "imagination": 13,
+                "independence": 42.8,
+                "obedience": 42.3,
+                "religious faith": 22.3,
+                "tolerance and respect for other people": 59,
+                "unselfishness": 19.9
+            }
+        },
+        "MKD": {
+            "1995-1999": {
+                "determination perseverance": 47.1,
+                "feeling of responsibility": 73.8,
+                "Hard work": 24.1,
+                "imagination": 12.1,
+                "independence": 61.9,
+                "obedience": 18.4,
+                "religious faith": 22.3,
+                "tolerance and respect for other people": 70.6,
+                "unselfishness": 60.5
+            },
+            "2000-2004": {
+                "determination perseverance": 42.6,
+                "feeling of responsibility": 74.1,
+                "Hard work": 36.9,
+                "imagination": 13.2,
+                "independence": 58.7,
+                "obedience": 11.3,
+                "religious faith": 26.9,
+                "tolerance and respect for other people": 75.3,
+                "unselfishness": 46.9
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "EGY": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 9.1,
+                "feeling of responsibility": 50.8,
+                "Hard work": 38.4,
+                "imagination": 15.4,
+                "independence": 72.6,
+                "obedience": 53.2,
+                "religious faith": 87.3,
+                "tolerance and respect for other people": 64.6,
+                "unselfishness": 21.6
+            },
+            "2005-2009": {
+                "determination perseverance": 22,
+                "feeling of responsibility": 77.6,
+                "Hard work": 57,
+                "imagination": 10.5,
+                "independence": 26.6,
+                "obedience": 67.6,
+                "religious faith": 89.8,
+                "tolerance and respect for other people": 70.9,
+                "unselfishness": 51.2
+            },
+            "2010-2014": {
+                "determination perseverance": 17.8,
+                "feeling of responsibility": 59.2,
+                "Hard work": 50.4,
+                "imagination": 6.2,
+                "independence": 80.2,
+                "obedience": 42.1,
+                "religious faith": 83.4,
+                "tolerance and respect for other people": 62.3,
+                "unselfishness": 29.2
+            }
+        },
+        "TZA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 56.7,
+                "feeling of responsibility": 41.4,
+                "Hard work": 83,
+                "imagination": 61,
+                "independence": 41.9,
+                "obedience": 76.1,
+                "religious faith": 75.1,
+                "tolerance and respect for other people": 83.6,
+                "unselfishness": 45.9
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "USA": {
+            "1995-1999": {
+                "determination perseverance": 41.5,
+                "feeling of responsibility": 69,
+                "Hard work": 37.8,
+                "imagination": 26.5,
+                "independence": 45.2,
+                "obedience": 37.6,
+                "religious faith": 53.9,
+                "tolerance and respect for other people": 75,
+                "unselfishness": 36
+            },
+            "2000-2004": {
+                "determination perseverance": 45.4,
+                "feeling of responsibility": 71.9,
+                "Hard work": 60.8,
+                "imagination": 30,
+                "independence": 61.1,
+                "obedience": 32,
+                "religious faith": 52.1,
+                "tolerance and respect for other people": 79.5,
+                "unselfishness": 39
+            },
+            "2005-2009": {
+                "determination perseverance": 40.2,
+                "feeling of responsibility": 72.2,
+                "Hard work": 61.7,
+                "imagination": 31.7,
+                "independence": 53.8,
+                "obedience": 28.3,
+                "religious faith": 50.6,
+                "tolerance and respect for other people": 78.3,
+                "unselfishness": 37.6
+            },
+            "2010-2014": {
+                "determination perseverance": 35.7,
+                "feeling of responsibility": 65.2,
+                "Hard work": 66.4,
+                "imagination": 30.5,
+                "independence": 53.6,
+                "obedience": 27.9,
+                "religious faith": 43.1,
+                "tolerance and respect for other people": 71.8,
+                "unselfishness": 32.7
+            }
+        },
+        "VEN": {
+            "1995-1999": {
+                "determination perseverance": 18.6,
+                "feeling of responsibility": 74,
+                "Hard work": 54.7,
+                "imagination": 12.9,
+                "independence": 23.2,
+                "obedience": 50,
+                "religious faith": 43,
+                "tolerance and respect for other people": 57.3,
+                "unselfishness": 38.2
+            },
+            "2000-2004": {
+                "determination perseverance": 44.9,
+                "feeling of responsibility": 87.6,
+                "Hard work": 26.6,
+                "imagination": 23.8,
+                "independence": 44.6,
+                "obedience": 51.4,
+                "religious faith": 44.7,
+                "tolerance and respect for other people": 79.6,
+                "unselfishness": 53.1
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "SRB": {
+            "1995-1999": {
+                "determination perseverance": 44.3,
+                "feeling of responsibility": 64.8,
+                "Hard work": 67.9,
+                "imagination": 12.7,
+                "independence": 50.7,
+                "obedience": 38.5,
+                "religious faith": 13.2,
+                "tolerance and respect for other people": 50.2,
+                "unselfishness": 28.1
+            },
+            "2000-2004": {
+                "determination perseverance": 40.5,
+                "feeling of responsibility": 71.8,
+                "Hard work": 74.8,
+                "imagination": 10.4,
+                "independence": 60.8,
+                "obedience": 32.4,
+                "religious faith": 20.7,
+                "tolerance and respect for other people": 64.5,
+                "unselfishness": 34.4
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "MNE": {
+            "1995-1999": {
+                "determination perseverance": 41.7,
+                "feeling of responsibility": 67.1,
+                "Hard work": 67.9,
+                "imagination": 17.1,
+                "independence": 52.1,
+                "obedience": 40.8,
+                "religious faith": 12.5,
+                "tolerance and respect for other people": 64.2,
+                "unselfishness": 33.3
+            },
+            "2000-2004": {
+                "determination perseverance": 44.2,
+                "feeling of responsibility": 67.7,
+                "Hard work": 82.2,
+                "imagination": 11.7,
+                "independence": 59,
+                "obedience": 46.5,
+                "religious faith": 21.7,
+                "tolerance and respect for other people": 57.1,
+                "unselfishness": 39.8
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "BFA": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 27.1,
+                "feeling of responsibility": 38.7,
+                "Hard work": 80.4,
+                "imagination": 19.2,
+                "independence": 31.2,
+                "obedience": 70.5,
+                "religious faith": 68.1,
+                "tolerance and respect for other people": 69.4,
+                "unselfishness": 39.4
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "URY": {
+            "1995-1999": {
+                "determination perseverance": 41.8,
+                "feeling of responsibility": 81.3,
+                "Hard work": 28.6,
+                "imagination": 30.9,
+                "independence": 49.1,
+                "obedience": 28.8,
+                "religious faith": 17.4,
+                "tolerance and respect for other people": 69.7,
+                "unselfishness": 54.7
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 39,
+                "feeling of responsibility": 79.5,
+                "Hard work": 22.3,
+                "imagination": 32.2,
+                "independence": 49.2,
+                "obedience": 38.5,
+                "religious faith": 18.2,
+                "tolerance and respect for other people": 81.7,
+                "unselfishness": 61.2
+            },
+            "2010-2014": {
+                "determination perseverance": 35,
+                "feeling of responsibility": 81.6,
+                "Hard work": 21.8,
+                "imagination": 19.8,
+                "independence": 48.2,
+                "obedience": 51.6,
+                "religious faith": 15.8,
+                "tolerance and respect for other people": 82,
+                "unselfishness": 52.9
+            }
+        },
+        "UZB": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 56.7,
+                "feeling of responsibility": 75,
+                "Hard work": 92.7,
+                "imagination": 4,
+                "independence": 57.6,
+                "obedience": 24.5,
+                "religious faith": 5.7,
+                "tolerance and respect for other people": 80.5,
+                "unselfishness": 23.5
+            }
+        },
+        "YEM": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2010-2014": {
+                "determination perseverance": 30.5,
+                "feeling of responsibility": 68.7,
+                "Hard work": 31.7,
+                "imagination": 9.1,
+                "independence": 30.6,
+                "obedience": 70,
+                "religious faith": 84.5,
+                "tolerance and respect for other people": 80,
+                "unselfishness": 31
+            }
+        },
+        "ZMB": {
+            "1995-1999": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 38.4,
+                "feeling of responsibility": 52.5,
+                "Hard work": 81.1,
+                "imagination": 20.3,
+                "independence": 54.7,
+                "obedience": 67.8,
+                "religious faith": 60.9,
+                "tolerance and respect for other people": 57.9,
+                "unselfishness": 37.7
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        },
+        "GBR": {
+            "1995-1999": {
+                "determination perseverance": 36.1,
+                "feeling of responsibility": 66.6,
+                "Hard work": 52.5,
+                "imagination": 0,
+                "independence": 49.3,
+                "obedience": 49.6,
+                "religious faith": 16.7,
+                "tolerance and respect for other people": 85.9,
+                "unselfishness": 0
+            },
+            "2000-2004": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            },
+            "2005-2009": {
+                "determination perseverance": 39.8,
+                "feeling of responsibility": 60.3,
+                "Hard work": 43.5,
+                "imagination": 37.4,
+                "independence": 58.7,
+                "obedience": 46.1,
+                "religious faith": 18.8,
+                "tolerance and respect for other people": 85.1,
+                "unselfishness": 54.9
+            },
+            "2010-2014": {
+                "determination perseverance": 0,
+                "feeling of responsibility": 0,
+                "Hard work": 0,
+                "imagination": 0,
+                "independence": 0,
+                "obedience": 0,
+                "religious faith": 0,
+                "tolerance and respect for other people": 0,
+                "unselfishness": 0
+            }
+        }
+    }
+]
