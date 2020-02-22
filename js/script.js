@@ -39,9 +39,9 @@ var variables_names = ["determination perseverance",
 
 var fills = {
     defaultFill: '#bdbdbd',
-    DP: "#c62828",
+    DP: "#ff5722",
     FR: "#9c27b0",
-    HW: "#ff5722",
+    HW: "#c62828",
     IM: "#03a9f4",
     IN: "#009688",
     OB: "#8bc34a",
@@ -119,9 +119,9 @@ $.get('data/trends.txt', function (dt) {
         element: document.getElementById('container'),
         fills: {
             defaultFill: '#bdbdbd',
-            DP: "#c62828",
+            DP: "#ff5722",
             FR: "#9c27b0",
-            HW: "#ff5722",
+            HW: "#c62828",
             IM: "#03a9f4",
             IN: "#009688",
             OB: "#8bc34a",
@@ -493,7 +493,7 @@ function hexToRgb(hex) {
     } : null;
 }
 
-var colors = ["#b71c1c", "#2e7d32", "#1565c0", "#4a148c"];
+var colors = ["#b71c1c", "#2e7d32", "#1a237e", "#4a148c"];
 
 
 var color = function (d) {
