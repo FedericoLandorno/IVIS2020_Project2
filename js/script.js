@@ -3,6 +3,10 @@
 //https://syntagmatic.github.io/parallel-coordinates/
 //https://github.com/syntagmatic/parallel-coordinates
 
+$(document).ready(function () {
+    $('.modal').modal();
+});
+
 var container_width = window.innerWidth - 64;
 var container_height = window.innerHeight - 64;
 $("#container").css("width", container_width);
@@ -42,6 +46,69 @@ var fills = {
     RF: "#ffc107",
     TR: "#3f51b5",
     UN: "#795548"
+};
+
+var dimensions = {
+    "Determination perseverance": {
+        title: "Det Pers",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Feeling of responsibility": {
+        title: "Resp",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Hard work": {
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Imagination": {
+        title: "Imag",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Independence": {
+        title: "Indep",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Obedience": {
+        title: "Obed",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Religious faith": {
+        title: "Relig",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Tolerance and respect for other people": {
+        title: "Tol Resp",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Unselfishness": {
+        title: "Unself",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Wave":
+    {
+        type: 'string',
+        orient: 'right',
+        ticks: 4,
+        tickValues: ["1995-1999", "2000-2004", "2005-2009", "2010-2014"]
+    }
 };
 
 $.get('data/trends.txt', function (dt) {
@@ -384,6 +451,12 @@ $.get('data/trends.txt', function (dt) {
         done: function (datamap) {
             datamap.svg.selectAll('.datamaps-subunit').on('click', function (geography) {
 
+                $("#country-name").html("<b>" + geography.properties.name + "</b>");
+
+                //open modal
+                var instance = M.Modal.getInstance($("#modal1"));
+                instance.open();
+
                 var parcoords = d3.parcoords()("#parcoords")
                     .color(color)
                     .alpha(0.4);
@@ -399,6 +472,7 @@ $.get('data/trends.txt', function (dt) {
                         .brushMode("1D-axes");  // enable brushing
                 });
 
+                parcoords.dimensions(dimensions);
 
             });
         }
@@ -433,68 +507,3 @@ var color = function (d) {
     }
     return color
 };
-
-var dimensions = {
-    "Determination perseverance": {
-        title: "Det Pers",
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Feeling of responsibility": {
-        title: "Resp",
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Hard work": {
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Imagination": {
-        title: "Imag",
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Independence": {
-        title: "Indep",
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Obedience": {
-        title: "Obed",
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Religious faith": {
-        title: "Relig",
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Tolerance and respect for other people": {
-        title: "Tol Resp",
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Unselfishness": {
-        title: "Unself",
-        type: "number",
-        ticks: 11,
-        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-    },
-    "Wave":
-    {
-        type: 'string',
-        orient: 'right',
-        ticks: 4,
-        tickValues: ["1995-1999", "2000-2004", "2005-2009", "2010-2014"]
-    }
-};
-
-parcoords.dimensions(dimensions);
