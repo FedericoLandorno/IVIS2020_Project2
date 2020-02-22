@@ -5,7 +5,9 @@
 
 $(document).ready(function () {
     $('.modal').modal();
+    $('.carousel').carousel();
 });
+
 
 var container_width = window.innerWidth - 64;
 var container_height = window.innerHeight - 64;

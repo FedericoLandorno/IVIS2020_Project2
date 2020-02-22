@@ -28,37 +28,40 @@
         </nav>
     </div>
     <div class="container">
-        <div class="row">           
-            
+        <div class="row">
+
             <!-- Main question -->
             <div class="col s12">
-                <h4>Main question</h4>
+                <h4>Main questions</h4>
             </div>
-            <div class="col s12">What is the most important quality of a child for each Country?</div>
+            <div class="col s12">
+                What is the most important quality of a child for each country?
+                </br>
+                Can I compare the qualities of a country through the years?
+            </div>
 
             <!-- Waves -->
             <div class="col s12">
                 <h4>Waves</h4>
                 <img src="img/waves.png">
             </div>
-            <div class="col s12">I select a period to view data from a wave (e.g. 2005-2009).</div>
+            <div class="col s12">The website allows me to select a period to view data from a wave.</div>
 
             <!-- Select countries -->
             <div class="col s12">
                 <h4>Countries</h4>
                 <img src="img/countries.png">
             </div>
-            <div class="col s12">I want to select all the countries but the tool does not allow me to do it in one step
-                (problem 1).</div>
+            <div class="col s12">I want to select all the countries but the tool does not allow me to do it in one step.
+                I would like to visualize all the countries in one view.
+            </div>
 
             <!-- Survey questions -->
             <div class="col s12">
                 <h4>Survey questions</h4>
                 <img src="img/variables.png">
             </div>
-            <div class="col s12">I would like to select all the variables at once, instead of selecting just one, in
-                order to compare the countries I selected during the selected wave among all the variables (problem 2).
-                Let's show "independence".
+            <div class="col s12">I would like to select all this variables.
             </div>
 
             <!-- Responses -->
@@ -66,8 +69,8 @@
                 <h4>Responses</h4>
                 <img src="img/tabledata.png">
             </div>
-            <div class="col s12">The first result I got is a table with all the raw results that are very hard to
-                compare (Problem 3).
+            <div class="col s12">I can compare countries on one variable but I am aiming at comparing all the variables
+                of a selected country.
             </div>
 
             <!-- Map -->
@@ -75,22 +78,59 @@
                 <h4>Map</h4>
                 <img src="img/map.png">
             </div>
-            <div class="col s12">Now we are speaking, a map where I can compare countries but only based on one
-                variable. They have implemented also a filter to see a defined range of percentages, cool!
-                To answer my question I should repeat this process for each variable.
+            <div class="col s12">I can compare countries but only based on one variable.
             </div>
 
             <!-- My visualization -->
             <div class="col s12">
                 <h4>My Visualization</h4>
-                To improve this visualization, I would create a single map that aggregates all the variables letting the
-                user to hover a country to see all the provided data related to all the variables sorted by higher to
-                lower, (GRAFICO?). Moreover, a parallel coordinates chart will show the variables of the selected
-                country, through the waves, to compare them.
+                To improve this visualization, I would create a single map that aggregates all the variables (9) letting
+                the users grasp which is the most important quality (AVG 20 years) in each country (98).
+                </br>
+                For the second question, a parallel coordinates chart will show the variables of the selected country,
+                through the waves, to compare them and see what is the trend for each wave.
                 </br>
                 <a class="waves-effect waves-light btn-large pulse deep-orange accent-3" href="viz.html"><i
                         class="material-icons right">insert_chart</i>Have a look at my viz</a>
 
+            </div>
+
+            <!-- Gapminder -->
+            <div class="col s12">
+                <h4>Gapminder</h4>
+                <div class="col s12">
+                    Now that I answered my two questions I look in Gapminder and take into account some variables to
+                    look for correlations based on: (read axes names).
+                </div>
+                <div class="carousel carousel-slider center">
+                    <div class="carousel-item deep-orange white-text" href="#one!">
+                        <img class="carousel-img" src="img/chilmor.png" />
+                    </div>
+                    <div class="carousel-item deep-orange white-text" href="#two!">
+                        <img class="carousel-img" src="img/demoscore.png" />
+                    </div>
+                    <div class="carousel-item deep-orange white-text" href="#three!">
+                        <img class="carousel-img" src="img/hdevind.png" />
+                    </div>
+                    <div class="carousel-item deep-orange white-text" href="#four!">
+                        <img class="carousel-img" src="img/income.png" />
+                    </div>
+                    <div class="carousel-item deep-orange white-text" href="#four!">
+                        <img class="carousel-img" src="img/lifeexp.png" />
+                    </div>
+                    <div class="carousel-item deep-orange white-text" href="#four!">
+                        <img class="carousel-img" src="img/mean1524man.png" />
+                    </div>
+                    <div class="carousel-item deep-orange white-text" href="#four!">
+                        <img class="carousel-img" src="img/mean25man.png" />
+                    </div>
+                    <div class="carousel-item deep-orange white-text" href="#four!">
+                        <img class="carousel-img" src="img/mean1524woman.png" />
+                    </div>
+                    <div class="carousel-item deep-orange white-text" href="#four!">
+                        <img class="carousel-img" src="img/mean25woman.png" />
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -129,6 +169,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script>
 
+        $('.carousel.carousel-slider').carousel({
+            fullWidth: true,
+            indicators: true
+        });
     </script>
 </body>
 
