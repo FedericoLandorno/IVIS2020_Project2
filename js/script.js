@@ -1,3 +1,8 @@
+//https://github.com/markmarkoh/datamaps
+
+//https://syntagmatic.github.io/parallel-coordinates/
+//https://github.com/syntagmatic/parallel-coordinates
+
 var container_width = window.innerWidth - 64;
 var container_height = window.innerHeight - 64;
 $("#container").css("width", container_width);
@@ -378,7 +383,23 @@ $.get('data/trends.txt', function (dt) {
         },
         done: function (datamap) {
             datamap.svg.selectAll('.datamaps-subunit').on('click', function (geography) {
-                alert(geography.properties.name);
+
+                var parcoords = d3.parcoords()("#parcoords")
+                    .color(color)
+                    .alpha(0.4);
+
+                // load csv file and create the chart
+                d3.csv('data/' + geography.id + '.csv', function (data) {
+                    parcoords
+                        .data(data)
+                        .composite("darker")
+                        .render()
+                        .shadows()
+                        .reorderable()
+                        .brushMode("1D-axes");  // enable brushing
+                });
+
+
             });
         }
 
@@ -396,67 +417,84 @@ function hexToRgb(hex) {
     } : null;
 }
 
-function getDataFromJson() {
-    var vars = ["DP",
-        "FR",
-        "HW",
-        "IM",
-        "IN",
-        "OB",
-        "RF",
-        "TR",
-        "UN"
-    ];
-    var jstr = "{";
-
-    $.getJSON("data/data.json", function (data) {
-
-        //each country
-        $.each(data[0], function (key, val) {
-            jstr += key + ": {";
-
-            var variables = [0, 0, 0, 0, 0, 0, 0, 0, 0];
-            var n_active_waves = [0, 0, 0, 0, 0, 0, 0, 0, 0];
-
-            //each wave
-            $.each(val, function (key1, val1) {
-                //each var
-                var i = 0;
-                $.each(val1, function (key2, val2) {
-                    variables[i] += val2;
-                    console.log(val2);
-                    if (val2 > 0) {
-                        console.log("ok");
-                        n_active_waves[i]++;
-                    }
-                    i++;
-                });
-            });
-
-            //avg
-            for (j = 0; j < 9; j++) {
-                variables[j] = variables[j] / n_active_waves[j];
-            }
-            //max 
-            var max = 0;
-            var max_index = 0;
-            for (z = 0; z < 9; z++) {
-                if (max < variables[z]) {
-                    max = variables[z];
-                    max_index = z;
-                }
-            }
-            jstr += "fillKey: " + "'" + vars[max_index] + "',";
-            jstr += "value: " + "'" + max + "'";
+var colors = ["#b71c1c", "#2e7d32", "#1565c0", "#4a148c"];
 
 
+var color = function (d) {
+    var color = "#ffffff";
+    if (d.Wave == "1995-1999" && d.Imagination != 0) {
+        color = colors[0];
+    } else if (d.Wave == "2000-2004" && d.Imagination != 0) {
+        color = colors[1];
+    } else if (d.Wave == "2005-2009" && d.Imagination != 0) {
+        color = colors[2];
+    } else if (d.Wave == "2010-2014" && d.Imagination != 100 && d.Imagination != 0) {
+        color = colors[3];
+    }
+    return color
+};
 
-            jstr += "},";
-            //console.log("OLE22" + jstr);
-            //console.log(n_active_waves.toString());
-        });
-    });
+var dimensions = {
+    "Determination perseverance": {
+        title: "Det Pers",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Feeling of responsibility": {
+        title: "Resp",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Hard work": {
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Imagination": {
+        title: "Imag",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Independence": {
+        title: "Indep",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Obedience": {
+        title: "Obed",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Religious faith": {
+        title: "Relig",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Tolerance and respect for other people": {
+        title: "Tol Resp",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Unselfishness": {
+        title: "Unself",
+        type: "number",
+        ticks: 11,
+        tickValues: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+    },
+    "Wave":
+    {
+        type: 'string',
+        orient: 'right',
+        ticks: 4,
+        tickValues: ["1995-1999", "2000-2004", "2005-2009", "2010-2014"]
+    }
+};
 
-    //console.log("OLE" + jstr);
-    return jstr.substring(0, jstr.length - 1) + "}";
-}
+parcoords.dimensions(dimensions);
